@@ -1,4 +1,4 @@
-# jquery-background-paralex-effect
+# jquery-background-paralax-effect
 ## How to use:
 #####1. Include paralaxbg.min.js to your project. Also, you have to include jQuery library in your project.
 #####2.1 Add the class "paralaxbg" to element you want to have the paralax effect. 
